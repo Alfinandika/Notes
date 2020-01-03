@@ -1,4 +1,4 @@
-## list node
+# list node
 ```bash
 kubectl get node
 ```
